@@ -6,7 +6,7 @@
 
 # Technologies 
 - JAKARTA
-- Spring MVC
+g- Spring MVC
 - Spring Security
 - Spring Data JPA
 - Maven
